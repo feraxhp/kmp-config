@@ -1,10 +1,12 @@
 # MIT Licence
 # Copyright 2025 feraxhp
 
-
-name: ⚙️ Kmp Config
+name: KMP Config
 author: feraxhp
 description: 'An action to add dependencies to work with Kotlin Multiplatform'
+branding:
+  icon: 'settings'
+  color: 'white'
 
 inputs:
   path:
